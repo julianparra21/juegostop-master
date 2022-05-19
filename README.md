@@ -1,5 +1,4 @@
 
-## Daniel ospina
 
 # juego stop 
 
